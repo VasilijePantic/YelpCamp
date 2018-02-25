@@ -61,6 +61,6 @@ app.use("/campgrounds/:id/comments", commentRoutes);
 
 
 //====================================
-app.listen(port=3000, function(){
+app.listen(process.env.PORT || 3000, function(){
 console.log("The YelpCamp started started!"); 
 });

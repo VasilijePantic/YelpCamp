@@ -20,4 +20,6 @@ For this to work-passport,passport-local and passport-local-mongoose are being u
 
 Also, Flash messages are included to let you know when you successfully make a comment,or when you log out for example.
 
+* YelpCamp can be accessed at: [https://frozen-journey-80295.herokuapp.com/]
+
 This app is created as a final part of Backend Development from Udemy's "Web Developer Bootcamp" course.
